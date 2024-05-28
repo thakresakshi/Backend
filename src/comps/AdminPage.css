@@ -1,0 +1,63 @@
+/* AdminPage.css */
+
+.card-gradient-admission {
+    background: linear-gradient(45deg, #00c6ff, #0072ff);
+    color: #fff;
+  }
+  
+  .btn-gradient-admission {
+    background: linear-gradient(45deg, #00c6ff, #0072ff);
+    color: #fff;
+    border: none;
+  }
+  
+  .card-gradient-contactus {
+    background: linear-gradient(45deg, #ff758c, #ff7eb3);
+    color: #fff;
+  }
+  
+  .btn-gradient-contactus {
+    background: linear-gradient(45deg, #ff758c, #ff7eb3);
+    color: #fff;
+    border: none;
+  }
+  
+  .card-gradient-feedback {
+    background: linear-gradient(45deg, #34e89e, #0f3443);
+    color: #fff;
+  }
+  
+  .btn-gradient-feedback {
+    background: linear-gradient(45deg, #34e89e, #0f3443);
+    color: #fff;
+    border: none;
+  }
+  
+  .card-gradient-signup {
+    background: linear-gradient(45deg, #f2709c, #ff9472);
+    color: #fff;
+  }
+  
+  .btn-gradient-signup {
+    background: linear-gradient(45deg, #f2709c, #ff9472);
+    color: #fff;
+    border: none;
+  }
+  
+  /* Ensure responsiveness */
+  .card {
+    border: none;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-body {
+    padding: 20px;
+  }
+  
+  .btn {
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 1rem;
+  }
+  
